@@ -3,9 +3,7 @@
 - 🌱 I’m currently trying to learn rust...
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ...
-ig : @adnan.abazovic
-discord : NotMyName#1594
+- 📫 You can reach me on discord = NotMyName#1594
 
 <!---
 adobug/adobug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
